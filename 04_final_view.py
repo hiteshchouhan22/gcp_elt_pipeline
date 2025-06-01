@@ -3,7 +3,6 @@ Author: [Hitesh Chouhan]
 Date: [2025-04-28]
 Purpose: This DAG script demonstrates how to load and transform data from GCS to BigQuery 
          and create country-specific tables and views for reporting. 
-         The code is featured in the YouTube video: "[Video Title]". 
 
 # NOTE:
 This script contains placeholder values that you need to replace with your actual values 
